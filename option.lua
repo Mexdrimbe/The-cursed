@@ -228,7 +228,7 @@ menu.addButton('player', 'RESET FOLLOW LOGIC', 'If they break, press this.', fun
         end
     end
 end)
-wtf.lua
+-- yeah...
 
 
 
